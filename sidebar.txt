@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[doo:home|Door43 (doo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-doo|d43-doo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-doo/archive/master.zip|d43-doo.zip]]
+
+**Recent Changes**
+{{changes>ns = doo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/doo|Ethnologue data]]
+
